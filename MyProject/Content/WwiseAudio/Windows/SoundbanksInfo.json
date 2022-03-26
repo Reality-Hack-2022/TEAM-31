@@ -232,7 +232,7 @@
     "Id": "2120813054",
     "GUID": "{C365F720-CAF8-4386-B922-2D175146E8C9}",
     "Language": "SFX",
-    "Hash": "858458028",
+    "Hash": "3738864512",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Env_SB",
     "ShortName": "Env_SB",
     "Path": "Env_SB.bnk",
@@ -381,78 +381,6 @@
       "Name": "Pitch_osc",
       "ObjectPath": "\\Game Parameters\\Default Work Unit\\Pitch_osc",
       "GUID": "{1B7056D1-0377-4348-9471-CF4B7F06F23F}"
-     }
-    ]
-   },
-   {
-    "Id": "3317646308",
-    "GUID": "{ADF00AD6-FD30-40D6-8E39-3A575F908756}",
-    "Language": "SFX",
-    "ObjectPath": "\\SoundBanks\\Default Work Unit\\OBJ_SB",
-    "ShortName": "OBJ_SB",
-    "Path": "OBJ_SB.bnk",
-    "IncludedEvents": [
-     {
-      "Id": "3550514391",
-      "Name": "Howl",
-      "ObjectPath": "\\Events\\Default Work Unit\\Breath\\Howl",
-      "GUID": "{C089BFC2-FF92-4518-AF23-EB0D2E0B2D1E}",
-      "MaxAttenuation": "0.",
-      "DurationType": "OneShot",
-      "DurationMin": "0.",
-      "DurationMax": "0."
-     },
-     {
-      "Id": "3050945240",
-      "Name": "New_Event",
-      "ObjectPath": "\\Events\\Default Work Unit\\Breath\\New_Event",
-      "GUID": "{AC01FA3A-2DF1-4206-B5FE-EBCCE5906B15}",
-      "MaxAttenuation": "0.",
-      "DurationType": "OneShot",
-      "DurationMin": "0.",
-      "DurationMax": "0."
-     },
-     {
-      "Id": "831894984",
-      "Name": "Swooshes",
-      "ObjectPath": "\\Events\\Default Work Unit\\Breath\\Swooshes",
-      "GUID": "{3EBD2F49-86E9-4F8F-AAC1-B707538120C5}",
-      "MaxAttenuation": "0.",
-      "DurationType": "OneShot",
-      "DurationMin": "0.",
-      "DurationMax": "0."
-     }
-    ],
-    "IncludedMemoryFiles": [
-     {
-      "Id": "8571298",
-      "Language": "SFX",
-      "ShortName": "Objects\\Swooshes\\FF_ES_foley_arrow_swoosh_blue.wav",
-      "Path": "SFX\\Objects\\Swooshes\\FF_ES_foley_arrow_swoosh_blue_10C4C929.wem"
-     },
-     {
-      "Id": "211536086",
-      "Language": "SFX",
-      "ShortName": "Objects\\Swooshes\\FF_ES_foley_arrow_swoosh_white.wav",
-      "Path": "SFX\\Objects\\Swooshes\\FF_ES_foley_arrow_swoosh_white_10C4C929.wem"
-     },
-     {
-      "Id": "594822656",
-      "Language": "SFX",
-      "ShortName": "Objects\\Swooshes\\FF_ES_foley_arrow_swoosh.wav",
-      "Path": "SFX\\Objects\\Swooshes\\FF_ES_foley_arrow_swoosh_10C4C929.wem"
-     },
-     {
-      "Id": "795723846",
-      "Language": "SFX",
-      "ShortName": "Objects\\Swooshes\\FF_ES_foley_arrow_swoosh_red.wav",
-      "Path": "SFX\\Objects\\Swooshes\\FF_ES_foley_arrow_swoosh_red_10C4C929.wem"
-     },
-     {
-      "Id": "955830460",
-      "Language": "SFX",
-      "ShortName": "Objects\\Swooshes\\FF_ES_foley_arrow_swoosh_green.wav",
-      "Path": "SFX\\Objects\\Swooshes\\FF_ES_foley_arrow_swoosh_green_10C4C929.wem"
      }
     ]
    }
