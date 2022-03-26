@@ -1,0 +1,310 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\jaypa\\Documents\\n\\",
+   "SourceFilesRoot": "C:\\Users\\jaypa\\Documents\\n\\.cache\\Android\\",
+   "SoundBanksRoot": "D:\\MyProject\\Content\\WwiseAudio\\Android\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\jaypa\\Documents\\n\\GeneratedSoundBanks\\Android"
+  },
+  "SoundBanks": [
+   {
+    "Id": "2120813054",
+    "GUID": "{C365F720-CAF8-4386-B922-2D175146E8C9}",
+    "Language": "SFX",
+    "Hash": "1561662290",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Env_SB",
+    "ShortName": "Env_SB",
+    "Path": "Env_SB.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3792546066",
+      "Name": "Play_emma",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\Play_emma",
+      "GUID": "{F69A06AD-3F16-49DD-81CD-C95BA886BF39}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.166",
+      "DurationMax": "7.166",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "188073824",
+        "Language": "SFX",
+        "ShortName": "voicerecording 4-recording-file.wav",
+        "Path": "SFX\\voicerecording 4-recording-file_10C4C929.wem"
+       },
+       {
+        "Id": "361682272",
+        "Language": "SFX",
+        "ShortName": "voicerecording 2-recording-file (4).wav",
+        "Path": "SFX\\voicerecording 2-recording-file (4)_10C4C929.wem"
+       },
+       {
+        "Id": "508274166",
+        "Language": "SFX",
+        "ShortName": "voicerecording 3-recording-file (5).wav",
+        "Path": "SFX\\voicerecording 3-recording-file (5)_10C4C929.wem"
+       },
+       {
+        "Id": "687598460",
+        "Language": "SFX",
+        "ShortName": "voicerecording 6-recording-file (3).wav",
+        "Path": "SFX\\voicerecording 6-recording-file (3)_10C4C929.wem"
+       },
+       {
+        "Id": "905807471",
+        "Language": "SFX",
+        "ShortName": "voicerecording 5-recording-file (2).wav",
+        "Path": "SFX\\voicerecording 5-recording-file (2)_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1642680936",
+      "Name": "Play_voice",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\Play_voice",
+      "GUID": "{8E2FA3E7-A168-4338-B4C4-A5BA20AD76D4}",
+      "MaxAttenuation": "3.",
+      "DurationType": "OneShot",
+      "DurationMin": "71.125",
+      "DurationMax": "71.125",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "68988319",
+        "Language": "SFX",
+        "ShortName": "Environmennt\\VOice\\FX 3.wav",
+        "Path": "SFX\\Environmennt\\VOice\\FX 3_10C4C929.wem"
+       },
+       {
+        "Id": "594093119",
+        "Language": "SFX",
+        "ShortName": "Environmennt\\VOice\\FX 4.wav",
+        "Path": "SFX\\Environmennt\\VOice\\FX 4_10C4C929.wem"
+       },
+       {
+        "Id": "613604419",
+        "Language": "SFX",
+        "ShortName": "Environmennt\\VOice\\FX 1.wav",
+        "Path": "SFX\\Environmennt\\VOice\\FX 1_10C4C929.wem"
+       },
+       {
+        "Id": "880482951",
+        "Language": "SFX",
+        "ShortName": "Environmennt\\VOice\\FX 2.wav",
+        "Path": "SFX\\Environmennt\\VOice\\FX 2_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1917031807",
+      "Name": "SFX_Environment_Floor",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\SFX_Environment_Floor",
+      "GUID": "{475576AB-816F-4DB3-9E9F-1E4B89AA1C22}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     },
+     {
+      "Id": "3202032254",
+      "Name": "SFX_Environment_waterdrops",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\SFX_Environment_waterdrops",
+      "GUID": "{4795C47E-FE21-4F22-B743-052A3246F893}",
+      "MaxAttenuation": "0.",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     },
+     {
+      "Id": "1811928333",
+      "Name": "SFX_Environment_Wind",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\SFX_Environment_Wind",
+      "GUID": "{ADA445A4-7449-443F-B6FE-7F979FDF37D6}",
+      "MaxAttenuation": "30.",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "423539421",
+        "Language": "SFX",
+        "ShortName": "Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1.wav",
+        "Path": "SFX\\Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3960060400",
+      "Name": "SFX_Environment_Windgust",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\SFX_Environment_Windgust",
+      "GUID": "{BEFC84F5-9F6A-4E2D-816B-968278603027}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "64121640",
+        "Language": "SFX",
+        "ShortName": "Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1.wav",
+        "Path": "SFX\\Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1_CD5A1670.wem"
+       },
+       {
+        "Id": "86520219",
+        "Language": "SFX",
+        "ShortName": "Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1.wav",
+        "Path": "SFX\\Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1_73C1D011.wem"
+       },
+       {
+        "Id": "677213845",
+        "Language": "SFX",
+        "ShortName": "Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1.wav",
+        "Path": "SFX\\Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1_0B455012.wem"
+       }
+      ]
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "64121640",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1.wav",
+      "Path": "SFX\\Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1_CD5A1670.wem"
+     },
+     {
+      "Id": "68988319",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\VOice\\FX 3.wav",
+      "Path": "SFX\\Environmennt\\VOice\\FX 3_10C4C929.wem"
+     },
+     {
+      "Id": "86520219",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1.wav",
+      "Path": "SFX\\Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1_73C1D011.wem"
+     },
+     {
+      "Id": "188073824",
+      "Language": "SFX",
+      "ShortName": "voicerecording 4-recording-file.wav",
+      "Path": "SFX\\voicerecording 4-recording-file_10C4C929.wem"
+     },
+     {
+      "Id": "201977012",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\WaterDrops\\WaterDrop_AP1.1335.wav",
+      "Path": "SFX\\Environmennt\\WaterDrops\\WaterDrop_AP1.1335_10C4C929.wem"
+     },
+     {
+      "Id": "361682272",
+      "Language": "SFX",
+      "ShortName": "voicerecording 2-recording-file (4).wav",
+      "Path": "SFX\\voicerecording 2-recording-file (4)_10C4C929.wem"
+     },
+     {
+      "Id": "406650414",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\Floor\\BRS_Twigs_Bend_Snap_Many_2.wav",
+      "Path": "SFX\\Environmennt\\Floor\\BRS_Twigs_Bend_Snap_Many_2_10C4C929.wem"
+     },
+     {
+      "Id": "423539421",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1.wav",
+      "Path": "SFX\\Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1_D79FB2B7.wem"
+     },
+     {
+      "Id": "499757576",
+      "Language": "SFX",
+      "ShortName": "Objects\\Swoosh\\ESM_Ancient_Game_Dark_Tone_Sweep_1_Movie_Trailer_Apocolyptic_Tribal.wav",
+      "Path": "SFX\\Objects\\Swoosh\\ESM_Ancient_Game_Dark_Tone_Sweep_1_Movie_Trailer_Apocolyptic_Tribal_D426AF51.wem"
+     },
+     {
+      "Id": "508274166",
+      "Language": "SFX",
+      "ShortName": "voicerecording 3-recording-file (5).wav",
+      "Path": "SFX\\voicerecording 3-recording-file (5)_10C4C929.wem"
+     },
+     {
+      "Id": "594093119",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\VOice\\FX 4.wav",
+      "Path": "SFX\\Environmennt\\VOice\\FX 4_10C4C929.wem"
+     },
+     {
+      "Id": "613604419",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\VOice\\FX 1.wav",
+      "Path": "SFX\\Environmennt\\VOice\\FX 1_10C4C929.wem"
+     },
+     {
+      "Id": "677213845",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1.wav",
+      "Path": "SFX\\Environmennt\\Wind\\BRS_Wind_Heavy_Dry_Leaves_1_0B455012.wem"
+     },
+     {
+      "Id": "687598460",
+      "Language": "SFX",
+      "ShortName": "voicerecording 6-recording-file (3).wav",
+      "Path": "SFX\\voicerecording 6-recording-file (3)_10C4C929.wem"
+     },
+     {
+      "Id": "688865323",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\WaterDrops\\RARE_percussion_Waterdrop_perc_dry_oneshot3.wav",
+      "Path": "SFX\\Environmennt\\WaterDrops\\RARE_percussion_Waterdrop_perc_dry_oneshot3_10C4C929.wem"
+     },
+     {
+      "Id": "736040782",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\Floor\\BRS_Twigs_Bend_Snap_Many_1.wav",
+      "Path": "SFX\\Environmennt\\Floor\\BRS_Twigs_Bend_Snap_Many_1_10C4C929.wem"
+     },
+     {
+      "Id": "744455523",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\WaterDrops\\RARE_percussion_Waterdrop_perc_dry_oneshot2.wav",
+      "Path": "SFX\\Environmennt\\WaterDrops\\RARE_percussion_Waterdrop_perc_dry_oneshot2_10C4C929.wem"
+     },
+     {
+      "Id": "786817674",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\Floor\\BRS_Twigs_Bend_Snap_Many_3.wav",
+      "Path": "SFX\\Environmennt\\Floor\\BRS_Twigs_Bend_Snap_Many_3_10C4C929.wem"
+     },
+     {
+      "Id": "825885841",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\WaterDrops\\WaterDrop_AP1.1333.wav",
+      "Path": "SFX\\Environmennt\\WaterDrops\\WaterDrop_AP1.1333_10C4C929.wem"
+     },
+     {
+      "Id": "880482951",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\VOice\\FX 2.wav",
+      "Path": "SFX\\Environmennt\\VOice\\FX 2_10C4C929.wem"
+     },
+     {
+      "Id": "905807471",
+      "Language": "SFX",
+      "ShortName": "voicerecording 5-recording-file (2).wav",
+      "Path": "SFX\\voicerecording 5-recording-file (2)_10C4C929.wem"
+     },
+     {
+      "Id": "1026411823",
+      "Language": "SFX",
+      "ShortName": "Environmennt\\WaterDrops\\WaterDrop_AP1.1334.wav",
+      "Path": "SFX\\Environmennt\\WaterDrops\\WaterDrop_AP1.1334_10C4C929.wem"
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "981390317",
+      "Name": "Pitch_osc",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Pitch_osc",
+      "GUID": "{1B7056D1-0377-4348-9471-CF4B7F06F23F}"
+     }
+    ]
+   }
+  ]
+ }
+}

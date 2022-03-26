@@ -1,0 +1,26 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\jaypa\\Documents\\n\\",
+   "SourceFilesRoot": "C:\\Users\\jaypa\\Documents\\n\\.cache\\Android\\",
+   "SoundBanksRoot": "D:\\MyProject\\Content\\WwiseAudio\\Android\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\jaypa\\Documents\\n\\GeneratedSoundBanks\\Android"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "288468947",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}
