@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1811928333	SFX_Environment_Wind			\Default Work Unit\Environment\SFX_Environment_Wind	
+	1917031807	SFX_Environment_Floor			\Default Work Unit\Environment\SFX_Environment_Floor	
+	3202032254	SFX_Environment_waterdrops			\Default Work Unit\Environment\SFX_Environment_waterdrops	
+	3960060400	SFX_Environment_Windgust			\Default Work Unit\Environment\SFX_Environment_Windgust	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	981390317	Pitch_osc			\Default Work Unit\Pitch_osc	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	64121640	BRS_Wind_Heavy_Dry_Leaves_01	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_CD5A1670.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\wind gust\BRS_Wind_Heavy_Dry_Leaves_01		644156
+	86520219	BRS_Wind_Heavy_Dry_Leaves_02	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_73C1D011.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\wind gust\BRS_Wind_Heavy_Dry_Leaves_02		772976
+	201977012	WaterDrop_AP1_1335	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\WaterDrops\WaterDrop_AP1.1335_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\WaterDrop_AP1_1335		56384
+	406650414	BRS_Twigs_Bend_Snap_Many_2	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Floor\Twiga\BRS_Twigs_Bend_Snap_Many_2		1192000
+	423539421	BRS_Wind_Heavy_Dry_Leaves_1	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\BRS_Wind_Heavy_Dry_Leaves_1		22478912
+	677213845	BRS_Wind_Heavy_Dry_Leaves_1	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_0B455012.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\wind gust\BRS_Wind_Heavy_Dry_Leaves_1		837384
+	688865323	RARE_percussion_Waterdrop_perc_dry_oneshot3	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\RARE_percussion_Waterdrop_perc_dry_oneshot3		83460
+	736040782	BRS_Twigs_Bend_Snap_Many_1	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Floor\Twiga\BRS_Twigs_Bend_Snap_Many_1		2406464
+	744455523	RARE_percussion_Waterdrop_perc_dry_oneshot2	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\RARE_percussion_Waterdrop_perc_dry_oneshot2		83460
+	786817674	BRS_Twigs_Bend_Snap_Many_3	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Floor\Twiga\BRS_Twigs_Bend_Snap_Many_3		3057728
+	825885841	WaterDrop_AP1_1333	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\WaterDrops\WaterDrop_AP1.1333_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\WaterDrop_AP1_1333		72768
+	1026411823	WaterDrop_AP1_1334	C:\Users\user\Documents\n\.cache\Mac\SFX\Environmennt\WaterDrops\WaterDrop_AP1.1334_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\WaterDrop_AP1_1334		51264
+

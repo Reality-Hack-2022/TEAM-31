@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Android" BasePlatform="Android" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\user\Documents\n\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\user\Documents\n\.cache\Android\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\user\Documents\TEAM-31\MyProject\Content\WwiseAudio\Android\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\user\Documents\n\GeneratedSoundBanks\Android</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1329476194" GUID="{B0D0AF08-9A31-4BE7-8071-439BB51CCAD4}" Language="SFX" Hash="849968223">
+			<ObjectPath>\SoundBanks\Default Work Unit\MUS_SB</ObjectPath>
+			<ShortName>MUS_SB</ShortName>
+			<Path>MUS_SB.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3991942870" Name="music" ObjectPath="\Events\Default Work Unit\Music\music" GUID="{D58760B2-E44A-4CAB-B6FD-53455CA31428}" DurationType="OneShot" DurationMin="39.968063" DurationMax="39.968063">
+					<IncludedMemoryFiles>
+						<File Id="840837317" Language="SFX">
+							<ShortName>MusicImplementation 2-LABS.wav</ShortName>
+							<Path>SFX\MusicImplementation 2-LABS_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1973439780" Name="music_01" ObjectPath="\Events\Default Work Unit\Music\music_01" GUID="{BB45B4F9-AAA7-4AF3-9354-A8B05EB0C026}" MaxAttenuation="5." DurationType="OneShot" DurationMin="39.968063" DurationMax="39.968063">
+					<IncludedMemoryFiles>
+						<File Id="455363893" Language="SFX">
+							<ShortName>MusicImplementation 3-LABS.wav</ShortName>
+							<Path>SFX\MusicImplementation 3-LABS_10C4C929.wem</Path>
+						</File>
+						<File Id="840837317" Language="SFX">
+							<ShortName>MusicImplementation 2-LABS.wav</ShortName>
+							<Path>SFX\MusicImplementation 2-LABS_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1973439783" Name="music_02" ObjectPath="\Events\Default Work Unit\Music\music_02" GUID="{1B543AC8-1214-49C5-8210-4E37BBED8370}" MaxAttenuation="5." DurationType="OneShot" DurationMin="39.968063" DurationMax="39.968063">
+					<IncludedMemoryFiles>
+						<File Id="276827733" Language="SFX">
+							<ShortName>MusicImplementation 5-Reaktor 6.wav</ShortName>
+							<Path>SFX\MusicImplementation 5-Reaktor 6_10C4C929.wem</Path>
+						</File>
+						<File Id="455363893" Language="SFX">
+							<ShortName>MusicImplementation 3-LABS.wav</ShortName>
+							<Path>SFX\MusicImplementation 3-LABS_10C4C929.wem</Path>
+						</File>
+						<File Id="840837317" Language="SFX">
+							<ShortName>MusicImplementation 2-LABS.wav</ShortName>
+							<Path>SFX\MusicImplementation 2-LABS_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1973439782" Name="music_03" ObjectPath="\Events\Default Work Unit\Music\music_03" GUID="{63C0644B-E416-482D-ABD9-E8DD8081E521}" MaxAttenuation="5." DurationType="OneShot" DurationMin="39.968063" DurationMax="39.968063">
+					<IncludedMemoryFiles>
+						<File Id="276827733" Language="SFX">
+							<ShortName>MusicImplementation 5-Reaktor 6.wav</ShortName>
+							<Path>SFX\MusicImplementation 5-Reaktor 6_10C4C929.wem</Path>
+						</File>
+						<File Id="455363893" Language="SFX">
+							<ShortName>MusicImplementation 3-LABS.wav</ShortName>
+							<Path>SFX\MusicImplementation 3-LABS_10C4C929.wem</Path>
+						</File>
+						<File Id="840837317" Language="SFX">
+							<ShortName>MusicImplementation 2-LABS.wav</ShortName>
+							<Path>SFX\MusicImplementation 2-LABS_10C4C929.wem</Path>
+						</File>
+						<File Id="1033576776" Language="SFX">
+							<ShortName>MusicImplementation 6-Serum.wav</ShortName>
+							<Path>SFX\MusicImplementation 6-Serum_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3227181061" Name="Music_Stop" ObjectPath="\Events\Default Work Unit\Music\Music_Stop" GUID="{B99758DC-C4FC-4641-B79C-46E6DF4A18ED}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2724869341" Name="Music_Switch" ObjectPath="\Events\Default Work Unit\Music\Music_Switch" GUID="{AC7A2FD3-A8D2-493A-8304-A15258F39437}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="25592655" Language="SFX">
+					<ShortName>MusicImplementation 5-Reaktor 6.wav</ShortName>
+					<Path>SFX\MusicImplementation 5-Reaktor 6_D79FB2B7.wem</Path>
+				</File>
+				<File Id="346872999" Language="SFX">
+					<ShortName>MusicImplementation 6-Serum.wav</ShortName>
+					<Path>SFX\MusicImplementation 6-Serum_D79FB2B7.wem</Path>
+				</File>
+				<File Id="502995640" Language="SFX">
+					<ShortName>MusicImplementation 3-LABS.wav</ShortName>
+					<Path>SFX\MusicImplementation 3-LABS_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1020540349" Language="SFX">
+					<ShortName>MusicImplementation 2-LABS.wav</ShortName>
+					<Path>SFX\MusicImplementation 2-LABS_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<StateGroups>
+				<StateGroup Id="3991942870" Name="Music" ObjectPath="\States\Default Work Unit\Music" GUID="{1D6BEDEC-9D39-4061-B346-9F5D5B947C84}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Music\None" GUID="{802C4ED0-09FA-4012-B359-B0E0843D3086}"/>
+						<State Id="4048265391" Name="Primero" ObjectPath="\States\Default Work Unit\Music\Primero" GUID="{BE7B34FC-7E0E-4ADC-8645-C0382BCAB7D4}"/>
+						<State Id="356081934" Name="Segundo" ObjectPath="\States\Default Work Unit\Music\Segundo" GUID="{037F9656-BAC0-430D-A7BF-0B2B358F1BCB}"/>
+						<State Id="3376158887" Name="Tercero" ObjectPath="\States\Default Work Unit\Music\Tercero" GUID="{E97FD0F1-E222-4880-BA81-31013AAEBCD7}"/>
+						<State Id="2699168775" Name="Cuarto" ObjectPath="\States\Default Work Unit\Music\Cuarto" GUID="{A7AB91B9-32B0-4451-AB91-E828CA471350}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="590781487">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2120813054" GUID="{C365F720-CAF8-4386-B922-2D175146E8C9}" Language="SFX" Hash="858458028">
+			<ObjectPath>\SoundBanks\Default Work Unit\Env_SB</ObjectPath>
+			<ShortName>Env_SB</ShortName>
+			<Path>Env_SB.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1917031807" Name="SFX_Environment_Floor" ObjectPath="\Events\Default Work Unit\Environment\SFX_Environment_Floor" GUID="{475576AB-816F-4DB3-9E9F-1E4B89AA1C22}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="3202032254" Name="SFX_Environment_waterdrops" ObjectPath="\Events\Default Work Unit\Environment\SFX_Environment_waterdrops" GUID="{4795C47E-FE21-4F22-B743-052A3246F893}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="1811928333" Name="SFX_Environment_Wind" ObjectPath="\Events\Default Work Unit\Environment\SFX_Environment_Wind" GUID="{ADA445A4-7449-443F-B6FE-7F979FDF37D6}" MaxAttenuation="25." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="423539421" Language="SFX">
+							<ShortName>Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1.wav</ShortName>
+							<Path>SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3960060400" Name="SFX_Environment_Windgust" ObjectPath="\Events\Default Work Unit\Environment\SFX_Environment_Windgust" GUID="{BEFC84F5-9F6A-4E2D-816B-968278603027}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="64121640" Language="SFX">
+							<ShortName>Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1.wav</ShortName>
+							<Path>SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_CD5A1670.wem</Path>
+						</File>
+						<File Id="86520219" Language="SFX">
+							<ShortName>Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1.wav</ShortName>
+							<Path>SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_73C1D011.wem</Path>
+						</File>
+						<File Id="677213845" Language="SFX">
+							<ShortName>Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1.wav</ShortName>
+							<Path>SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_0B455012.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="64121640" Language="SFX">
+					<ShortName>Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1.wav</ShortName>
+					<Path>SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_CD5A1670.wem</Path>
+				</File>
+				<File Id="86520219" Language="SFX">
+					<ShortName>Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1.wav</ShortName>
+					<Path>SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_73C1D011.wem</Path>
+				</File>
+				<File Id="201977012" Language="SFX">
+					<ShortName>Environmennt\WaterDrops\WaterDrop_AP1.1335.wav</ShortName>
+					<Path>SFX\Environmennt\WaterDrops\WaterDrop_AP1.1335_10C4C929.wem</Path>
+				</File>
+				<File Id="406650414" Language="SFX">
+					<ShortName>Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_2.wav</ShortName>
+					<Path>SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_2_10C4C929.wem</Path>
+				</File>
+				<File Id="423539421" Language="SFX">
+					<ShortName>Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1.wav</ShortName>
+					<Path>SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="677213845" Language="SFX">
+					<ShortName>Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1.wav</ShortName>
+					<Path>SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_0B455012.wem</Path>
+				</File>
+				<File Id="688865323" Language="SFX">
+					<ShortName>Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot3.wav</ShortName>
+					<Path>SFX\Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot3_10C4C929.wem</Path>
+				</File>
+				<File Id="736040782" Language="SFX">
+					<ShortName>Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_1.wav</ShortName>
+					<Path>SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_1_10C4C929.wem</Path>
+				</File>
+				<File Id="744455523" Language="SFX">
+					<ShortName>Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot2.wav</ShortName>
+					<Path>SFX\Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot2_10C4C929.wem</Path>
+				</File>
+				<File Id="786817674" Language="SFX">
+					<ShortName>Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_3.wav</ShortName>
+					<Path>SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_3_10C4C929.wem</Path>
+				</File>
+				<File Id="825885841" Language="SFX">
+					<ShortName>Environmennt\WaterDrops\WaterDrop_AP1.1333.wav</ShortName>
+					<Path>SFX\Environmennt\WaterDrops\WaterDrop_AP1.1333_10C4C929.wem</Path>
+				</File>
+				<File Id="1026411823" Language="SFX">
+					<ShortName>Environmennt\WaterDrops\WaterDrop_AP1.1334.wav</ShortName>
+					<Path>SFX\Environmennt\WaterDrops\WaterDrop_AP1.1334_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<GameParameters>
+				<GameParameter Id="981390317" Name="Pitch_osc" ObjectPath="\Game Parameters\Default Work Unit\Pitch_osc" GUID="{1B7056D1-0377-4348-9471-CF4B7F06F23F}"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3317646308" GUID="{ADF00AD6-FD30-40D6-8E39-3A575F908756}" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\OBJ_SB</ObjectPath>
+			<ShortName>OBJ_SB</ShortName>
+			<Path>OBJ_SB.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3550514391" Name="Howl" ObjectPath="\Events\Default Work Unit\Breath\Howl" GUID="{C089BFC2-FF92-4518-AF23-EB0D2E0B2D1E}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\Breath\New_Event" GUID="{AC01FA3A-2DF1-4206-B5FE-EBCCE5906B15}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="831894984" Name="Swooshes" ObjectPath="\Events\Default Work Unit\Breath\Swooshes" GUID="{3EBD2F49-86E9-4F8F-AAC1-B707538120C5}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="8571298" Language="SFX">
+					<ShortName>Objects\Swooshes\FF_ES_foley_arrow_swoosh_blue.wav</ShortName>
+					<Path>SFX\Objects\Swooshes\FF_ES_foley_arrow_swoosh_blue_10C4C929.wem</Path>
+				</File>
+				<File Id="211536086" Language="SFX">
+					<ShortName>Objects\Swooshes\FF_ES_foley_arrow_swoosh_white.wav</ShortName>
+					<Path>SFX\Objects\Swooshes\FF_ES_foley_arrow_swoosh_white_10C4C929.wem</Path>
+				</File>
+				<File Id="594822656" Language="SFX">
+					<ShortName>Objects\Swooshes\FF_ES_foley_arrow_swoosh.wav</ShortName>
+					<Path>SFX\Objects\Swooshes\FF_ES_foley_arrow_swoosh_10C4C929.wem</Path>
+				</File>
+				<File Id="795723846" Language="SFX">
+					<ShortName>Objects\Swooshes\FF_ES_foley_arrow_swoosh_red.wav</ShortName>
+					<Path>SFX\Objects\Swooshes\FF_ES_foley_arrow_swoosh_red_10C4C929.wem</Path>
+				</File>
+				<File Id="955830460" Language="SFX">
+					<ShortName>Objects\Swooshes\FF_ES_foley_arrow_swoosh_green.wav</ShortName>
+					<Path>SFX\Objects\Swooshes\FF_ES_foley_arrow_swoosh_green_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
