@@ -1,23 +1,38 @@
 Event	ID	Name			Wwise Object Path	Notes
+	1642680936	Play_voice			\Default Work Unit\Environment\Play_voice	
 	1811928333	SFX_Environment_Wind			\Default Work Unit\Environment\SFX_Environment_Wind	
 	1917031807	SFX_Environment_Floor			\Default Work Unit\Environment\SFX_Environment_Floor	
 	3202032254	SFX_Environment_waterdrops			\Default Work Unit\Environment\SFX_Environment_waterdrops	
+	3792546066	Play_emma			\Default Work Unit\Environment\Play_emma	
 	3960060400	SFX_Environment_Windgust			\Default Work Unit\Environment\SFX_Environment_Windgust	
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	981390317	Pitch_osc			\Default Work Unit\Pitch_osc	
 
+Effect plug-ins	ID	Name	Type				Notes
+	3546444380	Big_Garage1	Wwise Matrix Reverb			
+
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	64121640	BRS_Wind_Heavy_Dry_Leaves_01	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_CD5A1670.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\wind gust\BRS_Wind_Heavy_Dry_Leaves_01		644156
-	86520219	BRS_Wind_Heavy_Dry_Leaves_02	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_73C1D011.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\wind gust\BRS_Wind_Heavy_Dry_Leaves_02		772976
-	201977012	WaterDrop_AP1_1335	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\WaterDrop_AP1.1335_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\WaterDrop_AP1_1335		56384
-	406650414	BRS_Twigs_Bend_Snap_Many_2	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Floor\Twiga\BRS_Twigs_Bend_Snap_Many_2		1192000
-	423539421	BRS_Wind_Heavy_Dry_Leaves_1	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\BRS_Wind_Heavy_Dry_Leaves_1		22478912
-	677213845	BRS_Wind_Heavy_Dry_Leaves_1	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_0B455012.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\wind gust\BRS_Wind_Heavy_Dry_Leaves_1		837384
-	688865323	RARE_percussion_Waterdrop_perc_dry_oneshot3	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\RARE_percussion_Waterdrop_perc_dry_oneshot3		83460
-	736040782	BRS_Twigs_Bend_Snap_Many_1	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Floor\Twiga\BRS_Twigs_Bend_Snap_Many_1		2406464
-	744455523	RARE_percussion_Waterdrop_perc_dry_oneshot2	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\RARE_percussion_Waterdrop_perc_dry_oneshot2		83460
-	786817674	BRS_Twigs_Bend_Snap_Many_3	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Floor\Twiga\BRS_Twigs_Bend_Snap_Many_3		3057728
-	825885841	WaterDrop_AP1_1333	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\WaterDrop_AP1.1333_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\WaterDrop_AP1_1333		72768
-	1026411823	WaterDrop_AP1_1334	C:\Users\user\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\WaterDrop_AP1.1334_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\WaterDrop_AP1_1334		51264
+	64121640	BRS_Wind_Heavy_Dry_Leaves_01	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_CD5A1670.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\wind gust\BRS_Wind_Heavy_Dry_Leaves_01		644156
+	68988319	FX 3	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\VOice\FX 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Voice\Voi\FX 3		13656064
+	86520219	BRS_Wind_Heavy_Dry_Leaves_02	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_73C1D011.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\wind gust\BRS_Wind_Heavy_Dry_Leaves_02		772976
+	188073824	voicerecording 4-recording-file	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\voicerecording 4-recording-file_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\voice 2\here\voicerecording 4-recording-file		1375936
+	201977012	WaterDrop_AP1_1335	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\WaterDrop_AP1.1335_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\WaterDrop_AP1_1335		56384
+	361682272	voicerecording 2-recording-file (4)	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\voicerecording 2-recording-file (4)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\voice 2\here\voicerecording 2-recording-file (4)		1375936
+	406650414	BRS_Twigs_Bend_Snap_Many_2	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Floor\Twiga\BRS_Twigs_Bend_Snap_Many_2		1192000
+	423539421	BRS_Wind_Heavy_Dry_Leaves_1	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\BRS_Wind_Heavy_Dry_Leaves_1		22478912
+	499757576	ORbs	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Objects\Swoosh\ESM_Ancient_Game_Dark_Tone_Sweep_1_Movie_Trailer_Apocolyptic_Tribal_D426AF51.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Orb\ORbs		1920128
+	508274166	voicerecording 3-recording-file (5)	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\voicerecording 3-recording-file (5)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\voice 2\here\voicerecording 3-recording-file (5)		1375936
+	594093119	FX 4	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\VOice\FX 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Voice\Voi\FX 4		13656064
+	613604419	FX 1	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\VOice\FX 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Voice\Voi\FX 1		13656064
+	677213845	BRS_Wind_Heavy_Dry_Leaves_1	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\Wind\BRS_Wind_Heavy_Dry_Leaves_1_0B455012.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Wind\wind gust\BRS_Wind_Heavy_Dry_Leaves_1		837384
+	687598460	voicerecording 6-recording-file (3)	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\voicerecording 6-recording-file (3)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\voice 2\here\voicerecording 6-recording-file (3)		1375936
+	688865323	RARE_percussion_Waterdrop_perc_dry_oneshot3	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\RARE_percussion_Waterdrop_perc_dry_oneshot3		83460
+	736040782	BRS_Twigs_Bend_Snap_Many_1	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Floor\Twiga\BRS_Twigs_Bend_Snap_Many_1		2406464
+	744455523	RARE_percussion_Waterdrop_perc_dry_oneshot2	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\RARE_percussion_Waterdrop_perc_dry_oneshot2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\RARE_percussion_Waterdrop_perc_dry_oneshot2		83460
+	786817674	BRS_Twigs_Bend_Snap_Many_3	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\Floor\BRS_Twigs_Bend_Snap_Many_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Floor\Twiga\BRS_Twigs_Bend_Snap_Many_3		3057728
+	825885841	WaterDrop_AP1_1333	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\WaterDrop_AP1.1333_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\WaterDrop_AP1_1333		72768
+	880482951	FX 2	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\VOice\FX 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Voice\Voi\FX 2		13656064
+	905807471	voicerecording 5-recording-file (2)	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\voicerecording 5-recording-file (2)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\voice 2\here\voicerecording 5-recording-file (2)		1375936
+	1026411823	WaterDrop_AP1_1334	C:\Users\jaypa\Documents\n\.cache\Windows\SFX\Environmennt\WaterDrops\WaterDrop_AP1.1334_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\WaterDrops\Drops\WaterDrop_AP1_1334		51264
 

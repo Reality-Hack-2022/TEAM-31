@@ -8,6 +8,17 @@
 		{
 			"sources": [
 				{
+					"mode": "joystick",
+					"path": "/user/hand/left/input/thumbstick",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/VREditor_Left_ConfirmRadialSelection"
+						}
+					}
+				},
+				{
 					"mode": "button",
 					"path": "/user/hand/left/input/a",
 					"inputs":
@@ -15,6 +26,28 @@
 						"click":
 						{
 							"output": "/actions/main/in/VREditor_Left_Modifier"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/left/input/b",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/VREditor_Left_Modifier2"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
+					"path": "/user/hand/left/input/thumbstick",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/VREditor_Left_Touch"
 						}
 					}
 				},
@@ -80,45 +113,12 @@
 				},
 				{
 					"mode": "joystick",
-					"path": "/user/hand/left/input/thumbstick",
+					"path": "/user/hand/right/input/thumbstick",
 					"inputs":
 					{
 						"click":
 						{
-							"output": "/actions/main/in/VREditor_Left_ConfirmRadialSelection"
-						}
-					}
-				},
-				{
-					"mode": "joystick",
-					"path": "/user/hand/left/input/thumbstick",
-					"inputs":
-					{
-						"touch":
-						{
-							"output": "/actions/main/in/VREditor_Left_Touch"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/left/input/b",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/VREditor_Left_Modifier2"
-						}
-					}
-				},
-				{
-					"mode": "trackpad",
-					"path": "/user/hand/right/input/trackpad",
-					"inputs":
-					{
-						"touch":
-						{
-							"output": "/actions/main/in/VREditor_Right_WorldMovement"
+							"output": "/actions/main/in/VREditor_Right_ConfirmRadialSelection"
 						}
 					}
 				},
@@ -130,6 +130,28 @@
 						"click":
 						{
 							"output": "/actions/main/in/VREditor_Right_Modifier"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/right/input/b",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/VREditor_Right_Modifier2"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
+					"path": "/user/hand/right/input/thumbstick",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/VREditor_Right_Touch"
 						}
 					}
 				},
@@ -194,46 +216,13 @@
 					}
 				},
 				{
-					"mode": "joystick",
-					"path": "/user/hand/right/input/thumbstick",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/VREditor_Right_ConfirmRadialSelection"
-						}
-					}
-				},
-				{
-					"mode": "joystick",
-					"path": "/user/hand/right/input/thumbstick",
+					"mode": "trackpad",
+					"path": "/user/hand/right/input/trackpad",
 					"inputs":
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/VREditor_Right_Touch"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/right/input/b",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/VREditor_Right_Modifier2"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/VREditor_Left_TriggerAxis axis"
+							"output": "/actions/main/in/VREditor_Right_WorldMovement"
 						}
 					}
 				},
@@ -249,6 +238,17 @@
 					}
 				},
 				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"pull":
+						{
+							"output": "/actions/main/in/VREditor_Left_TriggerAxis axis"
+						}
+					}
+				},
+				{
 					"mode": "trackpad",
 					"path": "/user/hand/left/input/trackpad",
 					"inputs":
@@ -260,17 +260,6 @@
 					}
 				},
 				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/VREditor_Right_TriggerAxis axis"
-						}
-					}
-				},
-				{
 					"mode": "joystick",
 					"path": "/user/hand/right/input/thumbstick",
 					"inputs":
@@ -278,6 +267,17 @@
 						"position":
 						{
 							"output": "/actions/main/in/VREditor_Right_TrackpadPosition_X,VREditor_Right_TrackpadPosition_Y X Y_axis2d"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/trigger",
+					"inputs":
+					{
+						"pull":
+						{
+							"output": "/actions/main/in/VREditor_Right_TriggerAxis axis"
 						}
 					}
 				}
@@ -315,5 +315,5 @@
 			]
 		}
 	},
-	"description": "ETHO-18319896"
+	"description": "MyProject-18319896"
 }

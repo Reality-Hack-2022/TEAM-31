@@ -5,18 +5,18 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\user\\Documents\\n\\",
-   "SourceFilesRoot": "C:\\Users\\user\\Documents\\n\\.cache\\Mac\\",
-   "SoundBanksRoot": "C:\\Users\\user\\Documents\\TEAM-31\\MyProject\\Content\\WwiseAudio\\Mac\\",
+   "ProjectRoot": "C:\\Users\\jaypa\\Documents\\n\\",
+   "SourceFilesRoot": "C:\\Users\\jaypa\\Documents\\n\\.cache\\Mac\\",
+   "SoundBanksRoot": "D:\\MyProject\\Content\\WwiseAudio\\Mac\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\user\\Documents\\n\\GeneratedSoundBanks\\Mac"
+   "ExternalSourcesOutputRoot": "C:\\Users\\jaypa\\Documents\\n\\GeneratedSoundBanks\\Mac"
   },
   "SoundBanks": [
    {
     "Id": "1355168291",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "3560789152",
+    "Hash": "1720824212",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk"

@@ -5,6 +5,12 @@
   "BasePlatform": "Android",
   "Plugins": [
    {
+    "Name": "Wwise Matrix Reverb",
+    "ID": "7536643",
+    "DLL": "AkMatrixReverb",
+    "StaticLib": "AkMatrixReverbFX"
+   },
+   {
     "Name": "System",
     "ID": "11403271"
    },

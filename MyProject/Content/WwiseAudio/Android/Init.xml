@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Android" BasePlatform="Android" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>C:\Users\user\Documents\n\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\user\Documents\n\.cache\Android\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\user\Documents\TEAM-31\MyProject\Content\WwiseAudio\Android\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\jaypa\Documents\n\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\jaypa\Documents\n\.cache\Android\</SourceFilesRoot>
+		<SoundBanksRoot>D:\MyProject\Content\WwiseAudio\Android\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\user\Documents\n\GeneratedSoundBanks\Android</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\jaypa\Documents\n\GeneratedSoundBanks\Android</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="590781487">
+		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="288468947">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
